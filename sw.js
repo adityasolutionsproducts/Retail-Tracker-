@@ -1,6 +1,6 @@
 // Retail Tracker — Service Worker
 // Bump CACHE_VERSION on every deploy so old caches are cleared and users get the new build.
-const CACHE_VERSION = 'retail-tracker-v1';
+const CACHE_VERSION = 'retail-tracker-v2';
 const CACHE_NAME = `rt-cache-${CACHE_VERSION}`;
 
 // Core local files needed for the app shell to load offline.
