@@ -1,6 +1,6 @@
 {
   "name": "Retail Tracker",
-  "short_name": "RetailTracker",
+  "short_name": "Retail Tracker",
   "description": "Your shop's sales, stock & accounts — all in one place.",
   "start_url": "./index.html",
   "scope": "./",
