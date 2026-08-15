@@ -5,7 +5,7 @@
    - CDN libs (firebase, chart.js, jspdf, xlsx, barcode, fonts): stale-while-revalidate.
    - Firebase data/auth traffic is NEVER cached (data integrity + auth tokens).
 */
-const CACHE = 'retail-tracker-v3';
+const CACHE = 'retail-tracker-v4';
 const SHELL = [
   './',
   './index.html',
